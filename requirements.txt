@@ -1,4 +1,5 @@
 streamlit
+scikit-learn==1.3.0
 pandas
 numpy
 joblib
@@ -6,4 +7,4 @@ imblearn
 openpyxl
 matplotlib
 seaborn
-scikit-learn==1.3.0
+
