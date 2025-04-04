@@ -5,3 +5,4 @@ joblib
 imblearn
 openpyxl
 matplotlib
+seaborn
